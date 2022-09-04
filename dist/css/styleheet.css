@@ -1,0 +1,33 @@
+
+.header {
+  background-color: #1e87f0;
+  padding: 20px 0;
+  font-size: 50px;
+  color: aliceblue;
+  -webkit-text-stroke: 0.7px black;
+}
+.header__logo {
+  padding-left: 50px;
+}
+.header__button-save-in-xml {
+  position: relative;
+  float: right;
+  margin-top: 17px;
+  margin-right: 100px;
+}
+
+body {
+  margin: 0;
+}
+
+.container {
+  padding: 50px;
+  box-sizing: inherit;
+}
+.container_card__green {
+  background-color: #bdffbb;
+}
+.container_card__turquoise {
+  background-color: #87d3c9;
+}
+
